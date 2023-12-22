@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - free
+  - team1
+  - team2
+  - Ball
+  - Gk
+  - Shoot Area
+  - Detect
+  - Redscore
+  - Bluescore
+  - Blueteam
+  - Redteam
+  - OptionContainer
+  - FirstPos
+  - RedParent
+  - GameSetup
+  - BlueParent
+  - RedMessage
+  - BlueMessage
+  - Draw
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
